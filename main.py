@@ -1,3 +1,8 @@
 #WRITE YOUR CODE IN THIS FILE
-def topFiveMovies():
-    return "Shrek, Shrek, 2 Shrek, 3 Shrek, 4 Shrek 5"
+def topTenMovies(a, b, c, d, e):
+    a == "whopper"
+    b == "whopper"
+    c == "whopper"
+    d == "whopper"
+    e == "whopper"
+    return a, b, c, d, e
